@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Testing_for_future.dir/for_fun.cpp.o  -o Testing_for_future 

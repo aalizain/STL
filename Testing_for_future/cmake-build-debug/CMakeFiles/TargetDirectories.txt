@@ -1,0 +1,3 @@
+/mnt/d/CLionProjects/Testing_for_future/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/CLionProjects/Testing_for_future/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/CLionProjects/Testing_for_future/cmake-build-debug/CMakeFiles/Testing_for_future.dir
